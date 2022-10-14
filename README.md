@@ -9,7 +9,7 @@ I have developed GUI-based applications for acquisition, visualisation and analy
 👯 I’m looking to collaborate on data engineering and analysis projects
 
 I have got MSc in Biophysics and PhD in Neurobiology
-💬 Ask me about how do real neural networks are working...
+💬 Ask me about how real neural networks are working...
 
 📫 How to reach me: yupankr@gmail.com
 
