@@ -1,6 +1,7 @@
 ### Hi there 👋,
-🔭 I'm currently working on usage of AI for analysis of scientific data
-I'm experienced in C++, Java, R and Pascal 
+🔭 I'm currently working on usage of AI for analysis of scientific data.
+
+I'm experienced in C++, Java, R and Pascal. 
 I have developed GUI-based applications for acquisition, visualisation and analysis of biophysical and neurophysiological data
 
 🌱 I'm currently learning JavaScript and Python
