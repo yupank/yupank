@@ -2,7 +2,7 @@
 🔭 I'm currently working on usage of AI for analysis of scientific data.
 
 I'm experienced in C++, Java, JavaScript, Python and R. 
-I have developed GUI-based applications for acquisition, visualisation and analysis of biophysical and neurophysiological data
+I have developed GUI-based applications for acquisition, visualisation and analysis of biophysical and neurophysiological data (C++ and Java)
 
 🌱 I'm currently learning Data Engineering with Python and AWS.
 
